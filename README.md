@@ -7,7 +7,7 @@
 [![codecov](https://codecov.io/gh/toluaina/pgsync/branch/main/graph/badge.svg?token=cvQzYkz6CV)](https://codecov.io/gh/toluaina/pgsync)
 
 
-## PostgreSQL to Elasticsearch sync
+## PostgreSQL to Elasticsearch syncx
 
 [PGSync](https://pgsync.com) is a middleware for syncing data from [Postgres](https://www.postgresql.org) to [Elasticsearch](https://www.elastic.co/products/elastic-stack) effortlessly.
 It allows you to keep [Postgres](https://www.postgresql.org) as your source of truth and
